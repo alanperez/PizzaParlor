@@ -1,0 +1,9 @@
+[build]
+base = "/"
+publish = "PizzaParlor/build/"
+command = "gulp build"
+
+[[redirects]]
+from = "/*"
+to = "/index.html"
+status = 200
