@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Starter-Kit-2018
 
 
@@ -32,3 +33,10 @@ On the root of this project run on your terminal (if you want you can do this wi
 **Start the server**
 
   npm run watch
+=======
+# Pizza Parlor 
+
+Mock template I made for a local pizza joint. 
+
+It's still a work in progress
+>>>>>>> 65037d08bc0f7073754c2b10f4d8ee76a61db8f4

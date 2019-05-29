@@ -14,7 +14,11 @@
     "babel-preset-es2015": "^6.24.1",
     "babel-preset-react": "^6.24.1",
     "babel-preset-stage-0": "^6.24.1",
+<<<<<<< HEAD
     "browser-sync": "^2.26.5",
+=======
+    "browser-sync": "^2.18.8",
+>>>>>>> 65037d08bc0f7073754c2b10f4d8ee76a61db8f4
     "gulp": "^3.9.1",
     "gulp-autoprefixer": "^3.1.1",
     "gulp-babel": "^6.1.2",
@@ -28,11 +32,19 @@
     "html-webpack-plugin": "^2.28.0",
     "hyperapp": "^0.12.0",
     "hyperapp-redux-devtools": "^1.0.9",
+<<<<<<< HEAD
     "node-sass": "^4.12.0",
     "react": "^15.5.4",
     "react-dom": "^15.5.4",
     "react-redux": "^5.1.1",
     "react-router": "^4.3.1",
+=======
+    "node-sass": "^4.5.2",
+    "react": "^15.5.4",
+    "react-dom": "^15.5.4",
+    "react-redux": "^5.0.4",
+    "react-router": "^4.1.1",
+>>>>>>> 65037d08bc0f7073754c2b10f4d8ee76a61db8f4
     "redux": "^3.6.0",
     "sass-loader": "^6.0.3",
     "standard": "^10.0.2",
